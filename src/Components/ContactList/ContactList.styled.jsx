@@ -6,5 +6,4 @@ padding: 10px;
 
 export const Button = styled.button`
 margin-left: 5px;
-
 `
